@@ -167,7 +167,9 @@ export const useStore = create<PlayerProps>((set, get)=>{
 <br>
 
 ### Utilizei como principais ferramentas:
-<img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+<div style="display:inline-block">
+  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+</div>
 
